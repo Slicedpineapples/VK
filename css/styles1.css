@@ -1,0 +1,135 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Container */
+.container {
+    flex: 1;
+    padding: 20px;
+    text-align: left;
+}
+
+/* Portfolio Section */
+.page-section {
+    padding: 60px 0;
+    text-align: left;
+}
+
+.page-section h2.section-heading {
+    font-size: 2em;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.page-section h3.section-subheading {
+    font-size: 1.2em;
+    color: #777;
+    margin-bottom: 40px;
+}
+
+/* Portfolio Grid */
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: flex-start;
+}
+
+.col-lg-4, .col-sm-6 {
+    flex: 1 1 30%;
+    max-width: 30%;
+}
+
+.portfolio-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background: white;
+    text-align: left;
+}
+
+.portfolio-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.portfolio-hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.portfolio-hover-content {
+    color: white;
+    font-size: 2em;
+}
+
+.portfolio-item:hover .portfolio-hover {
+    opacity: 1;
+}
+
+.portfolio-caption {
+    padding: 15px;
+    text-align: left;
+}
+
+.portfolio-caption-heading {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.portfolio-caption-subheading {
+    font-size: 1em;
+    color: #777;
+}
+
+/* Footer */
+.footer {
+    background: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.footer .btn-social {
+    color: white;
+    margin: 0 10px;
+}
+
+.footer .btn-social:hover {
+    color: #6a11cb;
+}
+
+.footer .footer-heading {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
