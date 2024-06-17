@@ -4,12 +4,13 @@ const templateVars = {
     Your_Name: "Victor Oswago",
 
     // Page 1
-    Portfolio_Heading: "Effective Altruism Facilitator (October 2023-December 2023)",
+    Portfolio_Heading: "Effective Altruism Facilitator",
     Portfolio_Subheading: "Budapest, Hungary",
     portfolio_link_1: "https://www.eahungary.com/intro-program",
-    portfolio_image_1: "../images/3.jpg",
-    portfolio_caption_heading_1: "Trainer",
-    portfolio_caption_subheading_1: "Facilitated the introductory course on the need to prioritize interventions that can help people (oranimals) the most. https://forum.effectivealtruism.org/handbook",
+    portfolio_image_1: "../images/effective-ultrism.png",
+    portfolio_caption_heading_1: "October 2023-December 2023, Facilitator",
+    portfolio_caption_subheading_1: "I facilitated the introductory course on the need to prioritize interventions that can help people (oranimals) the most https://forum.effectivealtruism.org/handbook",
+    portfolio_certificate_1: "../images/effective-ultrism-cert.jpg",
 
     // Page 2
     Portfolio_Heading_2: "Research Assistant (June 2023-September 2023)",
