@@ -27,8 +27,8 @@ const templateVars = {
     // Page 3
     Portfolio_Heading_3: "Research Assistant (June 2023-September 2023)",
     Portfolio_Subheading_3: "Budapest, Hungary",
-    portfolio_link_3: "https://www.eahungary.com/intro-program",
-    portfolio_image_3: "images/eu.jpg",
+    portfolio_link_3: "https://www.facebook.com/share/p/GJss6SnNZvFGf88B/",
+    portfolio_image_3: "https://scontent.fbud6-4.fna.fbcdn.net/v/t39.30808-6/273724452_4787281691326346_3651077088287620724_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=H3umwSHZ60MQ7kNvgHJEDaH&_nc_ht=scontent.fbud6-4.fna&oh=00_AYA27uc2TYMpSildcbdm98GRp-v-JVXnzLp5BpxyuP4zgg&oe=66763BE2",
     portfolio_caption_heading_3: "Student Ambassador",
     portfolio_caption_subheading_3: " Writing papers, opinion pieces, and blogs, contributing to common publications relating to current EST campaigns, conducting interviews, making vlogs. Promoting EST via social media and other channels in Hungary, at my university and building a national network of enthusiastic student contributors and academic advisors. Organizing or participating in events relating to current political issues. Updating the EST International Officers by detailing the activities that I organize and submit monthly reports on this.",
 
