@@ -8,6 +8,7 @@ const templateVars = {
     Portfolio_Subheading: "Budapest, Hungary",
     portfolio_link_1: "https://www.eahungary.com/intro-program",
     portfolio_image_1: "images/effective-ultrism.png",
+    // portfolio_image_1: "https://sums-data-public.sums.su/YU/groups/thumbnails/61/1569850472.png",
     portfolio_caption_heading_1: "October 2023-December 2023, Facilitator",
     portfolio_caption_subheading_1: "I facilitated the introductory course on the need to prioritize interventions that can help people (oranimals) the most https://forum.effectivealtruism.org/handbook",
     portfolio_certificate_1: "images/effective-ultrism-cert.jpg",
@@ -16,27 +17,34 @@ const templateVars = {
     Portfolio_Heading_2: "Research Assistant (June 2023-September 2023)",
     Portfolio_Subheading_2: "Budapest, Hungary",
     portfolio_link_2: "https://www.eahungary.com/intro-program",
-    portfolio_image_2: "../images/3.jpg",
-    portfolio_caption_heading_2: "Research Assistant",
-    portfolio_caption_subheading_2: "Conducted research on the most effective interventions to help animals. https://forum.effectivealtruism.org/handbook",
+    portfolio_image_2: "images/hook.png",
+    portfolio_caption_heading_2: "Mentor",
+    portfolio_caption_subheading_2: "Assisting international students in integrating into academic life throughout the academic year. Organizing collaboration events and student activities and participating in cultural and touristic programme. Participating in community building activities organized for the members of the network",
 
 
     // Page 3
     Portfolio_Heading_3: "Research Assistant (June 2023-September 2023)",
     Portfolio_Subheading_3: "Budapest, Hungary",
     portfolio_link_3: "https://www.eahungary.com/intro-program",
-    portfolio_image_3: "../images/3.jpg",
-    portfolio_caption_heading_3: "Research Assistant",
-    portfolio_caption_subheading_3: "Conducted research on the most effective interventions to help animals. https://forum.effectivealtruism.org/handbook",
+    portfolio_image_3: "images/eu.jpg",
+    portfolio_caption_heading_3: "Student Ambassador",
+    portfolio_caption_subheading_3: " Writing papers, opinion pieces, and blogs, contributing to common publications relating to current EST campaigns, conducting interviews, making vlogs. Promoting EST via social media and other channels in Hungary, at my university and building a national network of enthusiastic student contributors and academic advisors. Organizing or participating in events relating to current political issues. Updating the EST International Officers by detailing the activities that I organize and submit monthly reports on this.",
 
-    // Page 4
+    // Page 5
     Portfolio_Heading_4: "Research Assistant (June 2023-September 2023)",
     Portfolio_Subheading_4: "Budapest, Hungary",
+    portfolio_link_5: "https://www.eahungary.com/intro-program",
+    portfolio_image_5: "../images/3.jpg",
+    portfolio_caption_heading_5: "Research Assistant",
+    portfolio_caption_subheading_5: "Conducted research on the most effective interventions to help animals. https://forum.effectivealtruism.org/handbook",
+
+    // Page 4
+    Portfolio_Heading_4: "Camp America",
+    Portfolio_Subheading_4: "United States",
     portfolio_link_4: "https://www.eahungary.com/intro-program",
-    portfolio_image_4: "../images/3.jpg",
+    portfolio_image_4: "images/campAm.svg",
     portfolio_caption_heading_4: "Research Assistant",
     portfolio_caption_subheading_4: "Conducted research on the most effective interventions to help animals. https://forum.effectivealtruism.org/handbook",
-
 
 };
 
