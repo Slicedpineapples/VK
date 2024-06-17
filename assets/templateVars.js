@@ -17,7 +17,9 @@ const templateVars = {
     Portfolio_Heading_2: "Research Assistant (June 2023-September 2023)",
     Portfolio_Subheading_2: "Budapest, Hungary",
     portfolio_link_2: "https://www.eahungary.com/intro-program",
-    portfolio_image_2: "images/hook.png",
+    portfolio_image_2: "images/Mentor1.jpg",
+    portfolio_image_2_1: "images/Mentor2.jpg",
+    portfolio_image_2_2: "images/Mentor3.jpg",
     portfolio_caption_heading_2: "Mentor",
     portfolio_caption_subheading_2: "Assisting international students in integrating into academic life throughout the academic year. Organizing collaboration events and student activities and participating in cultural and touristic programme. Participating in community building activities organized for the members of the network",
 
@@ -42,7 +44,8 @@ const templateVars = {
     Portfolio_Heading_4: "Camp America",
     Portfolio_Subheading_4: "United States",
     portfolio_link_4: "https://www.eahungary.com/intro-program",
-    portfolio_image_4: "images/campAm.svg",
+    portfolio_image_4: "images/camp.jpg",
+    portfolio_image_4_1: "images/camp2.jpg",
     portfolio_caption_heading_4: "Research Assistant",
     portfolio_caption_subheading_4: "Conducted research on the most effective interventions to help animals. https://forum.effectivealtruism.org/handbook",
 
